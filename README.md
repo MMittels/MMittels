@@ -1,6 +1,6 @@
 ## Strategic Data Science Consultant
 
-### I am a strong data analytics leader who has modernized her data science skillset through the Artificial Intelligence Bootcamp at the University of Denver.  Artificial Intelligence graduate with excellent attention to detail and critical thinking with a passion on leveraging data to predict business outcomes and recommend business actions.
+### Experienced data scientist specializing in AI, possesses a strong passion for leveraging data-driven insights to address complex challenges. With a deep understanding of machine learning algorithms, I am adept at developing scalable and efficient AI solutions. Passionate about staying at the forefront of emerging technologies, I am dedicated to continuously expanding my knowledge and skill set to drive AI-driven innovation.
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,matlab,sklearn,tensorflow,vscode)](https://skillicons.dev)
