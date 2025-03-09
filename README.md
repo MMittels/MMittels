@@ -1,6 +1,8 @@
-## Hi 👋  I am a Data Science Consultant
+## Strategic Data Science Consultant
 
 ### I am a strong data analytics leader who has modernized her data science skillset through the Artificial Intelligence Bootcamp at the University of Denver.  Artificial Intelligence graduate with excellent attention to detail and critical thinking with a passion on leveraging data to predict business outcomes and recommend business actions.
+
+###Skills
 
 
 <!--
