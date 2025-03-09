@@ -3,7 +3,7 @@
 ### I am a strong data analytics leader who has modernized her data science skillset through the Artificial Intelligence Bootcamp at the University of Denver.  Artificial Intelligence graduate with excellent attention to detail and critical thinking with a passion on leveraging data to predict business outcomes and recommend business actions.
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=py,sql,matlab,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,mysql,matlab,sklearn)](https://skillicons.dev)
 
 
 <!--
